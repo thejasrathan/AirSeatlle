@@ -6,9 +6,9 @@ The project is done in Jupyter Notebook (Anaconda). Python 3.6.
 #Motivation: 
 This project has been conducted as a part of Udacity's Data Scientist Nanodegree. The Students were to pick a dataset, come up with some questions and answer those questions through a blogpost. The questions I chose was:
 
-how to get the best price
-how to get better reviews
-can a machine learning model accurately predict price on AirBnB
+Best ways to achieve the best price on AirBNB?
+Best way to achieve good reviews?
+Is it possile to make an accurate predictive model for listing price based on machine leraning?
 
 #Summary 
 
